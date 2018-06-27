@@ -22,7 +22,9 @@ to make this script work you must have at least one proxy!
 </ul>
 and....<br>
 wait for the <strong>BOOM</strong> ;) <br>
-![alt tag](https://i.imgrpost.com/imgr/2018/06/27/Screenshot_1.png) <br>
+
+![alt tag](https://i.imgrpost.com/imgr/2018/06/27/Screenshot_1.png) 
+<br>
 <h3><strong>Requirements:</strong> <br></h3>
 <ul>
   <li> Python3 </li>
