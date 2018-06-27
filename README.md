@@ -11,7 +11,7 @@ to make this script work you must have at least one proxy!
 
 ![alt tag](https://i.imgrpost.com/imgr/2018/06/27/Screenshot_2.png)
 
-<h3><strong>steps</strong> <br></h3>
+<h3><strong>steps:</strong> <br></h3>
 <ul>
 1) Open WsapAttack.py <br>
 2) Write the message you want to send <br>
@@ -21,11 +21,13 @@ to make this script work you must have at least one proxy!
 5) Select the chat/group you want to BOMB  <br>
 </ul>
 and....<br>
-wait for the <strong>BOOM</strong> ;)
+wait for the <strong>BOOM</strong> ;) <br>
+
 <ul>
-  <li> Python2.7 </li>
-  <li> OpenCV library </li>
-  <li> Numpy library (via pip) </li>
-  <li> Web camera </li>
+  <li> Python3 </li>
+  <li> Selenium WebDriver</li>
+  <li> Multiprocessing </li>
+  <li> Requests </li>
+  <li> Chromium/Chrome browser</li>
   <li> Windows or Linux </li>
 </ul>
