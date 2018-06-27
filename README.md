@@ -23,6 +23,7 @@ to make this script work you must have at least one proxy!
 and....<br>
 wait for the <strong>BOOM</strong> ;) <br>
 
+<h3><strong>Requirements:</strong> <br></h3>
 <ul>
   <li> Python3 </li>
   <li> Selenium WebDriver</li>
