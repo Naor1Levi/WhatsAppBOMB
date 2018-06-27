@@ -11,7 +11,7 @@ to make this script work you must have at least one proxy!
 
 ![alt tag](https://i.imgrpost.com/imgr/2018/06/27/Screenshot_2.png)
 
-<strong>steps</strong>
+<strong>steps</strong> <br>
 1)Open WsapAttack.py <br>
 2)Write the message you want to send <br>
 3)Write how many times you want to send the message (x times for each thread!) <br>
