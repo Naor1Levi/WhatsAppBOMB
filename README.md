@@ -21,7 +21,7 @@ to make this script work you must have at least one proxy!
 5) Select the chat/group you want to BOMB  <br>
 </ul>
 and....<br>
-wait for the <strong>BOOM</strong> ;) <br>
+wait for the <strong>BOOM</strong> ;) <br><br>
 
 ![alt tag](https://i.imgrpost.com/imgr/2018/06/27/Screenshot_1.png) 
 <br>
